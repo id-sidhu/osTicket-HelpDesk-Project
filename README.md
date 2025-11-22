@@ -198,7 +198,7 @@ Ticket categorized under appropriate Help Topic and assigned to:
 Tier 1 added an internal note:
 
 ```
-Reviewed the ticket. Beginning initial checks.
+Ticket recieved and being reviewed by Tier 1
 ```
 
 - **07 - Internal_Note_Added.png**
@@ -223,8 +223,8 @@ Tier 1 escalated issue to:
 Tier 2 provided a professional user-facing reply:
 
 ```
-Your issue has been reviewed and resolved. 
-Please test again and let us know if the problem continues.
+Your issue has been resolved. 
+Please check on your side and let us know if you have any further problems.
 ```
 
 ---
